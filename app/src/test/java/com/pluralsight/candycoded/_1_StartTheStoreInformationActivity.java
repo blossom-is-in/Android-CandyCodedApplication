@@ -30,6 +30,7 @@ public class _1_StartTheStoreInformationActivity {
     private static boolean called_Intent_correctly = false;
     private static boolean called_startActivity = false;
 
+
     // Mockito setup
     @BeforeClass
     public static void setup() throws Exception {
